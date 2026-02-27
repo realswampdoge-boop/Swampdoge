@@ -1,3 +1,4 @@
+import DashboardScreen from "./screens/DashboardScreen";
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import {
   View,
